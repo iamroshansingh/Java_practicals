@@ -1,12 +1,8 @@
-class HelloWorld {
+package javaFiles;
 
-	public static void main(String args[]){
-
-		System.out.println("Hello World");
-		System.out.print("Hello World");
-
-
-
-}
+public class HelloWorld {
+	public static void main(String [] args) {
+		System.out.println("Hello world this is 1st Program");
+	}
 
 }
